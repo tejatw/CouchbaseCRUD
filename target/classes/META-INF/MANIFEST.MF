@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: CouchbaseCRUD
+Implementation-Version: 0.1
+Built-By: teja
+Implementation-Vendor-Id: CouchbaseCRUD
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+
